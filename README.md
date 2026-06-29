@@ -14,4 +14,6 @@ Each proof is checked by the Lean kernel — `#print axioms` clean, no `native_d
 ### Also building
 Low-latency trading bots (Python + Rust), crypto-analytics pipelines, LLM automation, self-hosted services.
 
-🌐 **[shulgin.is-a.dev](https://shulgin.is-a.dev)**  ·  open to work
+🌐 **[shulgin.is-a.dev](https://shulgin.is-a.dev)**
+
+**Open to remote roles** — contract · part-time · full-time. Best fit: **AI/LLM engineering, Python backend, bots & automation, crypto data.** Async-friendly, GMT+10 (good overlap with Asia / EU).
