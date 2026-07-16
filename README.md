@@ -1,4 +1,4 @@
-# Aleksandr Shulgin — `IShu`
+# Aleksandr Shulgin (@Aleksandr_NFA) — `IShu`
 
 Full-cycle backend engineer. Async **Python** · **Rust** · LLM pipelines & automation.
 I take on the unsolved and ship it working.
