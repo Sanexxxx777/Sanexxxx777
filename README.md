@@ -16,6 +16,9 @@ These are formalizations of known results and statements, not solutions of open 
 
 ### Open source
 - [curated-claude-code](https://github.com/Sanexxxx777/curated-claude-code): a small, vetted, self-evolving harness for Claude Code
+- [teardown](https://github.com/Sanexxxx777/teardown): weighs someone else's repository by counting its code, with a measured dataset of 138 trending repos
+- [slopcheck](https://github.com/Sanexxxx777/slopcheck): a linter for the tells of AI writing, no model and no network, exits non-zero for CI
+- [palette-lock](https://github.com/Sanexxxx777/palette-lock): locks an AI-generated image to an exact palette after generation, then measures how close it landed
 - [server-hardening-playbook](https://github.com/Sanexxxx777/server-hardening-playbook): every item is failure, fix, verify
 - [evidence-to-skill](https://github.com/Sanexxxx777/evidence-to-skill): untrusted source material into attributed AI skills through evidence gates
 - [agent-graph-inspector](https://github.com/Sanexxxx777/agent-graph-inspector): a multi-agent run journal as one HTML page with the critical path
