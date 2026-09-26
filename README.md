@@ -5,12 +5,14 @@ Full-cycle engineer: bots, automation, websites, AI agents. I build systems that
 Verifiable first: **[shulgin.is-a.dev/proof](https://shulgin.is-a.dev/proof/)** lists only links that open and can be checked in a minute.
 
 ### Machine-checked mathematics
-An agent pipeline that produces Lean 4 / Mathlib proofs, used to contribute to **[google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures)**. Four PRs merged after maintainer review, every proof checked by the Lean kernel (`#print axioms` clean, no `native_decide`):
+An agent pipeline that produces Lean 4 / Mathlib proofs, used to contribute to **[google-deepmind/formal-conjectures](https://github.com/google-deepmind/formal-conjectures)**. Six PRs merged after maintainer review, every proof of mine checked by the Lean kernel (`#print axioms` clean, no `native_decide`):
 
 - [PR #4245](https://github.com/google-deepmind/formal-conjectures/pull/4245): Erdos 1084, `f1(n) = n - 1` for unit-distance configurations on a line (merged June 15, 2026)
 - [PR #4244](https://github.com/google-deepmind/formal-conjectures/pull/4244): Erdos 1052, the 24-digit unitary perfect number via a sigma-star multiplicativity API (merged June 22, 2026)
 - [PR #4364](https://github.com/google-deepmind/formal-conjectures/pull/4364): Green's open problem 64, the statement formalized with three witnesses of non-triviality (merged August 14, 2026)
 - [PR #4361](https://github.com/google-deepmind/formal-conjectures/pull/4361): Erdos 418, the Odd Noncototient Conjecture stated in Mathlib terms (merged September 2, 2026)
+- [PR #6509](https://github.com/google-deepmind/formal-conjectures/pull/6509): Erdos 885, the `k = 4` case proved with an explicit witness from a computer search (merged September 23, 2026)
+- [PR #4379](https://github.com/google-deepmind/formal-conjectures/pull/4379): Erdos 90, the statement linked to an external Lean disproof, not my proof (merged September 23, 2026)
 
 These are formalizations of known results and statements, not solutions of open problems.
 
